@@ -1,2 +1,2 @@
 # Android-App
-LemonNES Android App For LemonNES Emulator Core
+LemonNES Android App Releases For LemonNES Emulator Core
